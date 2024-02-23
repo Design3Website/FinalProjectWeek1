@@ -23,7 +23,7 @@
       <ol>
         <li id="biblio">
           <h3>Bibliographie :</h3>
-          <img src="C:\Users\hp\Desktop\cycle d'ingénieur\Compétances\spécialisation\Développement site web\HTML\Week 1\AVT_Dale-Carnegie_Picture.webp" alt="Image de Dale Carnegie" width="128">
+          <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.babelio.com%2Fauteur%2FDale-Carnegie%2F8818%2Fphotos&psig=AOvVaw21x3MxGkOKOlHe7LxdvQkQ&ust=1708792125712000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNC4hO_wwYQDFQAAAAAdAAAAABAE" alt="Image de Dale Carnegie" width="128">
           <p> Dale Carnegie (1888-1955)</p>
           <p>Dale Carnegie est né en 1888 au Missouri, aux États-Unis, et a fait ses études au Warrensburg State Teachers College. En tant que représentant de commerce et aspirant acteur, il s'est installé à New York, où il a commencé à donner des cours de communication aux adultes, au YMCA. En 1912, le célèbre cours Dale Carnegie est né.</p>
         </li>
